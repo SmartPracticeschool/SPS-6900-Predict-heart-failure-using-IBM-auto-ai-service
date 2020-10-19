@@ -1,5 +1,5 @@
 # SPS-6900-Predict-heart-failure-using-IBM-auto-ai-service
-Predict heart failure using IBM auto ai service
+Predict Heart Failure using IBM Auto AI Service
 
 Demo : https://drive.google.com/file/d/15WqKccR194GACxttVX3NArTMMZ-r_zwf/view?usp=sharing 
 
